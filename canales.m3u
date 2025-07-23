@@ -1,1 +1,31 @@
-al rato bro estoy  Cansado
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/langca-250px-MEGA.svg.png",MEGA
+http://185.189.225.150:85/mega/index.m3u8
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Squirrel_TV_logo.svg/1024px-Squirrel_TV_logo.svg.png",Squirrel
+http://176.65.146.237:8401/play/a09h/index.m3u8
+#EXTINF:-1 group-title="España" tvg-logo="https://www.calle13.es/sites/all/themes/pint_themes/base_13thstreet_v2/logo-es.svg",Calle 13
+http://185.189.225.150:85/calle13/index.m3u8
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan
+http://176.65.146.237:8401/play/a09t/index.m3u8
+#EXTINF:-1 group-title="España" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/0d/Canal_Hollywood_HD.svg/revision/latest/scale-to-width-down/250?cb=20240823224559",Hollywood
+http://185.189.225.150:85/Hollywood/index.m3u8
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",Paramount Network
+http://176.65.146.237:8401/play/a09i/index.m3u8
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Tooncast_HD.png/revision/latest/scale-to-width-down/300?cb=20241211221414",Tooncast
+http://181.78.4.250:8098/play/a05g/index.m3u8
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NuestraTeleInternacional2019.png/revision/latest?cb=20191225023419",RCN NuestraTele
+http://181.78.4.250:8098/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/2880px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health
+http://181.78.4.250:8098/play/a07c/index.m3u8
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Discovery_Kids_Logo_%282021%29.webp/215px-Discovery_Kids_Logo_%282021%29.webp.png",Discovery Kids
+http://38.180.133.31:8000/play/a0kw/index.m3u8
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/DHE_2019_II.svg/revision/latest/scale-to-width-down/250?cb=20230914135954",DHE
+http://181.78.4.250:8098/play/a037/index.m3u8
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png",Telemundo
+http://170.239.188.252:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/600px-TNT_%28TV_Channel%29.svg.png",TNT
+http://181.78.4.250:8098/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg/revision/latest/scale-to-width-down/315?cb=20250307002717",BitMe
+http://181.78.4.250:8098/play/0122/index.m3u8
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",Tlnovelas
+http://181.78.4.250:8098/play/a04z/index.m3u8

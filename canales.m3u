@@ -7,11 +7,11 @@ http://176.65.146.237:8401/play/a09h/index.m3u8
 http://185.189.225.150:85/calle13/index.m3u8
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan
 http://176.65.146.237:8401/play/a09t/index.m3u8
-#EXTINF:-1 group-title="España" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/0d/Canal_Hollywood_HD.svg/revision/latest/scale-to-width-down/250?cb=20240823224559",Hollywood
+#EXTINF:-1 group-title="España" tvg-logo="https://telepez.github.io/imagenes/Hollywood.png",Hollywood
 http://185.189.225.150:85/Hollywood/index.m3u8
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",Paramount Network
 http://176.65.146.237:8401/play/a09i/index.m3u8
-#EXTINF:-1 group-title="Panregional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Tooncast_HD.png/revision/latest/scale-to-width-down/300?cb=20241211221414",Tooncast
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/Tooncast_verde.png",Tooncast
 http://181.78.4.250:8098/play/a05g/index.m3u8
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NuestraTeleInternacional2019.png/revision/latest?cb=20191225023419",RCN NuestraTele
 http://181.78.4.250:8098/play/a03n/index.m3u8
@@ -19,7 +19,7 @@ http://181.78.4.250:8098/play/a03n/index.m3u8
 http://181.78.4.250:8098/play/a07c/index.m3u8
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Discovery_Kids_Logo_%282021%29.webp/215px-Discovery_Kids_Logo_%282021%29.webp.png",Discovery Kids
 http://38.180.133.31:8000/play/a0kw/index.m3u8
-#EXTINF:-1 group-title="Panregional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/DHE_2019_II.svg/revision/latest/scale-to-width-down/250?cb=20230914135954",DHE
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/DHE_verde.png",DHE
 http://181.78.4.250:8098/play/a037/index.m3u8
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png",Telemundo
 http://170.239.188.252:8000/play/a050/index.m3u8
@@ -29,9 +29,9 @@ http://181.78.4.250:8098/play/a03g/index.m3u8
 http://181.78.4.250:8098/play/a04j/index.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",Telefe
 http://177.53.154.70:9981/stream/channelid/1580738470?profile=pass
-#EXTINF:-1 group-title="Mexico" tvg-logo="https://telepez.github.io/imagenes/BitMe.png",BitMe
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://telepez.github.io/imagenes/BitMe.webp",BitMe
 http://181.78.4.250:8098/play/0122/index.m3u8
-#EXTINF:-1 group-title="Mexico" tvg-logo="https://telepez.github.io/imagenes/BitMe.png",BitMe (Directo 2)
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://telepez.github.io/imagenes/BitMe.webp",BitMe (Directo 2)
 http://177.53.154.70:9981/stream/channelid/596792319?profile=pass
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Canal_Las_Estrellas_%28Logo_2023%29_Zoom.jpg",Las Estrellas
 http://177.53.154.70:9981/stream/channelid/1718960791?profile=pass

@@ -87,3 +87,9 @@ http://177.53.154.70:9981/stream/channelid/1795408593?profile=pass
 http://177.53.154.70:9981/stream/channelid/1184711174?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/FX_anaranjado.png",FX
 http://177.53.154.70:9981/stream/channelid/2049703496?profile=pass
+#EXTINF:-1 tvg-id="5ACTION.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/1024px-5Action_logo.svg.png" group-title="Reino Unido",5ACTION
+http://31.121.110.30:4000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="Reino Unido",5USA
+http://31.121.110.30:4000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/5Star_logo_2019.svg/2880px-5Star_logo_2019.svg.png" group-title="Reino Unido",5STAR
+http://31.121.110.30:4000/play/a00r/index.m3u8

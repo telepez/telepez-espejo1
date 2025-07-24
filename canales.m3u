@@ -27,5 +27,15 @@ http://170.239.188.252:8000/play/a050/index.m3u8
 http://181.78.4.250:8098/play/a03g/index.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg/revision/latest/scale-to-width-down/315?cb=20250307002717",BitMe
 http://181.78.4.250:8098/play/0122/index.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Canal_Las_Estrellas_%28Logo_2023%29_Zoom.jpg?20230910064507",Las Estrellas
+http://177.53.154.70:9981/stream/channelid/1718960791?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",Tlnovelas
 http://181.78.4.250:8098/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/Univision_pero_el_logo_bueno.png",Univision
+http://177.53.154.70:9981/stream/channelid/1136052604?profile=pass
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/736px-Telehit_logo_2020.png?20210626215436",Telehit
+http://177.53.154.70:9981/stream/channelid/703812393?profile=pass
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png",Telehit Musica
+http://177.53.154.70:9981/stream/channelid/2114855691?profile=pass
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Studio-Universal-2016.png/revision/latest?cb=20160108191358",Studio Universal
+http://177.53.154.70:9981/stream/channelid/1564785158?profile=pass

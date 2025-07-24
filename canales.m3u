@@ -47,6 +47,8 @@ http://177.53.154.70:9981/stream/channelid/703812393?profile=pass
 http://177.53.154.70:9981/stream/channelid/2114855691?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/StudioUniversal.webp",Studio Universal
 http://177.53.154.70:9981/stream/channelid/1564785158?profile=pass
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.webp",MTV
+http://177.53.154.70:9981/stream/channelid/1233977565?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN
 http://177.53.154.70:9981/stream/channelid/265736950?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/ESPN2.webp",ESPN 2
@@ -85,6 +87,8 @@ http://177.53.154.70:9981/stream/channelid/1933789699?profile=pass
 http://177.53.154.70:9981/stream/channelid/1795408593?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/Golden.webp",Golden
 http://177.53.154.70:9981/stream/channelid/1184711174?profile=pass
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",Golden Edge
+http://177.53.154.70:9981/stream/channelid/1705546264?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/FX_anaranjado.webp",FX
 http://177.53.154.70:9981/stream/channelid/2049703496?profile=pass
 #EXTINF:-1 tvg-id="5ACTION.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/1024px-5Action_logo.svg.png" group-title="Reino Unido",5ACTION

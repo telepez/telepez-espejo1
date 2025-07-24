@@ -158,6 +158,8 @@ http://177.53.154.70:9981/stream/channelid/1564785158?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TeenNick_2023_Outlined_Logo.png?20240218144129",TeenNick
 http://177.53.154.70:9981/stream/channelid/1949273597?profile=pass
 #EXTINF:-1 group-title="Chile" tvg-logo="https://telepez.github.io/imagenes/Telecanal.webp",Telecanal
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-logo="https://telepez.github.io/imagenes/Telecanal.webp",Telecanal (Directo 2)
 http://181.78.4.250:8098/play/a069/index.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Televisi%C3%B3n_Federal_Logo.svg/2880px-Televisi%C3%B3n_Federal_Logo.svg.png",Telefe
 http://177.53.154.70:9981/stream/channelid/1580738470?profile=pass

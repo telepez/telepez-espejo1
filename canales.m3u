@@ -7,6 +7,8 @@ http://31.121.110.30:4000/play/a00r/index.m3u8
 http://31.121.110.30:4000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/1200px-Logo_Antena_3_2025_%28Naranja%29.svg.png",Antena 3
 http://176.65.146.237:8401/play/a0ae/index.m3u8
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2880px-AXN_logo_%282015%29.svg.png",AXN
+http://177.53.154.70:9981/stream/channelid/782703881?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bandamax_2015_Logo.png/250px-Bandamax_2015_Logo.png",Bandamax
 http://177.53.154.70:9981/stream/channelid/634506210?profile=pass
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://telepez.github.io/imagenes/BBC_World_News.webp",BBC World News
@@ -27,11 +29,13 @@ http://185.189.225.150:85/calle13/index.m3u8
 http://177.53.154.70:9981/stream/channelid/342235355?profile=pass
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan
 http://176.65.146.237:8401/play/a09t/index.m3u8
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png",Comedy Central
+http://177.53.154.70:9981/stream/channelid/1458179531?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/2880px-DPel%C3%ADcula_2021.svg.png",De Película
 http://177.53.154.70:9981/stream/channelid/1933789699?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/De_Pelicula_Plus.webp",De Película Plus
 http://177.53.154.70:9981/stream/channelid/1795408593?profile=pass
-#EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/DHE_verde.webp",DHE
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/DHE.webp",DHE
 http://181.78.4.250:8098/play/a037/index.m3u8
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/2880px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health
 http://181.78.4.250:8098/play/a07c/index.m3u8
@@ -39,6 +43,8 @@ http://181.78.4.250:8098/play/a07c/index.m3u8
 http://38.180.133.31:8000/play/a0kw/index.m3u8
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/DisneyChannel.webp",Disney Channel
 http://177.53.154.70:9981/stream/channelid/1639127781?profile=pass
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/Distrito_Comedia.webp",Distrito Comedia
+http://177.53.154.70:9981/stream/channelid/1199816891?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2024_Disney_Jr._logo_Alternate.svg/2880px-2024_Disney_Jr._logo_Alternate.svg.png",Disney Junior
 http://177.53.154.70:9981/stream/channelid/1712901419?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN
@@ -57,9 +63,9 @@ http://177.53.154.70:9981/stream/channelid/241990489?profile=pass
 http://177.53.154.70:9981/stream/channelid/1409947437?profile=pass
 #EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://telepez.github.io/imagenes/FOX_Weather.webp",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/FX_anaranjado.webp",FX
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/FX.webp",FX
 http://177.53.154.70:9981/stream/channelid/2049703496?profile=pass
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="FX.us" tvg-logo="https://telepez.github.io/imagenes/FX_anaranjado.webp",FX
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="FX.us" tvg-logo="https://telepez.github.io/imagenes/FX.webp",FX
 http://fl1.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="FXMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png",FXM
 http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
@@ -67,6 +73,8 @@ http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
 http://177.53.154.70:9981/stream/channelid/1184711174?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",Golden Edge
 http://177.53.154.70:9981/stream/channelid/1705546264?profile=pass
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/Golden_Plus.webp",Golden Plus
+http://177.53.154.70:9981/stream/channelid/1963066747?profile=pass
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
 http://fl1.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="HBO2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2
@@ -153,7 +161,7 @@ http://fl1.moveonjoy.com/STARZ_ENCORE/index.m3u8
 http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="StarzEncoreWesterns.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/2560px-Starz_Encore_Westerns_Logo_2022.svg.png",Starz Encore Westerns
 http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/StudioUniversal.webp",Studio Universal
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/Studio_Universal.webp",Studio Universal
 http://177.53.154.70:9981/stream/channelid/1564785158?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TeenNick_2023_Outlined_Logo.png?20240218144129",TeenNick
 http://177.53.154.70:9981/stream/channelid/1949273597?profile=pass
@@ -175,9 +183,11 @@ http://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 http://181.78.4.250:8098/play/a04z/index.m3u8
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/600px-TNT_%28TV_Channel%29.svg.png",TNT
 http://181.78.4.250:8098/play/a03g/index.m3u8
-#EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/Tooncast_verde.webp",Tooncast
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/Tooncast.webp",Tooncast
 http://181.78.4.250:8098/play/a05g/index.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-logo="https://telepez.github.io/imagenes/Univision_pero_el_logo_bueno.webp",Univision
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://telepez.github.io/imagenes/Univision.webp",Univision
 http://177.53.154.70:9981/stream/channelid/1136052604?profile=pass
-#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://telepez.github.io/imagenes/Univision_pero_el_logo_bueno.webp",Univision
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://telepez.github.io/imagenes/Univision.webp",Univision
 http://jabawalkies.club:8080/K1uWWBmaxJ/Xa1TFucw91/113430
+#EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/2560px-USA_Network_logo_%282016%29.svg.png",USA Network
+http://177.53.154.70:9981/stream/channelid/1009825522?profile=pass

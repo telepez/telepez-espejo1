@@ -95,6 +95,8 @@ http://185.189.225.150:85/Hollywood/index.m3u8
 http://176.65.146.237:8401/play/a095/index.m3u8
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/960px-Logo_La_2.svg.png",La 2
 http://176.65.146.237:8401/play/a098/index.m3u8
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/1200px-Logo_Canal_24_horas.svg.png",24h
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/46838.ts
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://telepez.github.io/imagenes/Las_Estrellas.webp",Las Estrellas
 http://177.53.154.70:9981/stream/channelid/1718960791?profile=pass
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/langca-250px-MEGA.svg.png",MEGA

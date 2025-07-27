@@ -13,6 +13,8 @@ http://177.53.154.70:9981/stream/channelid/782703881?profile=pass
 http://177.53.154.70:9981/stream/channelid/634506210?profile=pass
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://telepez.github.io/imagenes/BBC_World_News.webp",BBC World News
 http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_TVE-Internacional.svg",TVE Internacional
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110843.ts
 #EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/BET_Jams_2021.png",BET Jams
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png",BET Soul
@@ -71,6 +73,12 @@ http://fl1.moveonjoy.com/FX/index.m3u8
 http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Discovery_Familia_Logo_%282022%29.svg/1200px-Discovery_Familia_Logo_%282022%29.svg.png",Discovery Familia 
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110814.ts
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Hogar_de_HGTV_logo.svg",Hogar de HGTV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110824.ts
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Discovery_en_Espa%C3%B1ol_%282020%29.svg/2560px-Discovery_en_Espa%C3%B1ol_%282020%29.svg.png",Discovery en Espanol 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110813.ts
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/History_en_Espa%C3%B1ol_2022.svg/revision/latest?cb=20220602025342",History en Espanol 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110823.ts
 #EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Nat_Geo_Mundo.svg/revision/latest?cb=20140626190709",Nat Geo Mundo 
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110830.ts
 #EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/MTV_Tres_2010_logo.svg",Tr3s

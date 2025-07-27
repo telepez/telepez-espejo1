@@ -69,6 +69,12 @@ http://177.53.154.70:9981/stream/channelid/2049703496?profile=pass
 http://fl1.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="FXMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png",FXM
 http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Discovery_Familia_Logo_%282022%29.svg/1200px-Discovery_Familia_Logo_%282022%29.svg.png",Discovery Familia 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110814.ts
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Nat_Geo_Mundo.svg/revision/latest?cb=20140626190709",Nat Geo Mundo 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110830.ts
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/MTV_Tres_2010_logo.svg",Tr3s
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110841.ts
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/Golden.webp",Golden
 http://177.53.154.70:9981/stream/channelid/1184711174?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",Golden Edge
@@ -105,6 +111,8 @@ http://176.65.146.237:8401/play/a095/index.m3u8
 http://176.65.146.237:8401/play/a098/index.m3u8
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/1200px-Logo_Canal_24_horas.svg.png",24h
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/46838.ts
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png",Teledeportes
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/46887.ts
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://telepez.github.io/imagenes/Las_Estrellas.webp",Las Estrellas
 http://177.53.154.70:9981/stream/channelid/1718960791?profile=pass
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/langca-250px-MEGA.svg.png",MEGA

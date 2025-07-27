@@ -85,6 +85,8 @@ http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
 http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="HBOZone.us" tvg-logo="https://telepez.github.io/imagenes/HBO_Zone.webp",HBO Zone
 http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Telexitos_logo.png",TeleXitos 
+http://104.12.67.120:9981/stream/channelid/217775310?ticket=23371BDDD675FE49BEEAC00FE91E84D9715EFE4F&profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1142px-History_Logo.svg.png",History
 http://177.53.154.70:9981/stream/channelid/1059436452?profile=pass
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/History2.webp",History 2

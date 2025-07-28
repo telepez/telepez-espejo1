@@ -53,6 +53,8 @@ http://181.78.4.250:8098/play/a037/index.m3u8
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110813.ts
 #EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Discovery_Familia_Logo_%282022%29.svg/1200px-Discovery_Familia_Logo_%282022%29.svg.png",Discovery Familia 
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110814.ts
+#EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://uploahttps://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1200px-ESPN_Deportes.svg.png",ESPN Deportes
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110817.ts
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/2880px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health
 http://181.78.4.250:8098/play/a07c/index.m3u8
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Discovery_Kids_Logo_%282021%29.webp/215px-Discovery_Kids_Logo_%282021%29.webp.png",Discovery Kids
@@ -81,6 +83,8 @@ http://177.53.154.70:9981/stream/channelid/1409947437?profile=pass
 http://speccy.pw:8080/live/111111/111111/294861.ts
 #EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/2880px-Fts-new-york-a.svg.png",FOX NY (WNYW)
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/57809.ts
+#EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",FOX Deportes
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110822.ts
 #EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://telepez.github.io/imagenes/FOX_Weather.webp",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://telepez.github.io/imagenes/FX.webp",FX

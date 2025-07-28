@@ -7,6 +7,10 @@ http://31.121.110.30:4000/play/a00s/index.m3u8
 http://31.121.110.30:4000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="Reino Unido",5USA
 http://31.121.110.30:4000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/KABC_7_logo.png/revision/latest?cb=20101030173203",ABC Los Angeles (KABC)
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/85452.ts
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1024px-WABC_TV_New_2021.svg.png",ABC Nueva York (WABC)
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/102227.ts
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/1200px-Logo_Antena_3_2025_%28Naranja%29.svg.png",Antena 3
 http://176.65.146.237:8401/play/a0ae/index.m3u8
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2880px-AXN_logo_%282015%29.svg.png",AXN
@@ -27,6 +31,10 @@ http://177.53.154.70:9981/stream/channelid/596792319?profile=pass
 http://176.65.146.237:8401/play/a0ad/index.m3u8
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Calle_13_Universal.png",Calle 13
 http://185.189.225.150:85/calle13/index.m3u8
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="",CBS Nueva York (WCBS)
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86148.ts
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="",CBS San Diego (KFMB)
+http://speccy.pw:8080/live/111111/111111/294703.ts
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1200px-CinecanalLA.png",Cinecanal
 http://177.53.154.70:9981/stream/channelid/342235355?profile=pass
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan
@@ -191,8 +199,12 @@ http://177.53.154.70:9981/stream/channelid/703812393?profile=pass
 http://177.53.154.70:9981/stream/channelid/2114855691?profile=pass
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png",Telemundo
 http://170.239.188.252:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png",Telemundo NY
+http://zorrohunter.com//live/DomsFireStick/43759841237/23248.ts
 #EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Telexitos_logo.png",TeleXitos 
 http://104.12.67.120:9981/stream/channelid/217775310?ticket=23371BDDD675FE49BEEAC00FE91E84D9715EFE4F&profile=pass
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="",The CW Los Angeles (KTLA)
+http://speccy.pw:8080/live/111111/111111/294808.ts
 #EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png",The Weather Channel
 http://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",Tlnovelas

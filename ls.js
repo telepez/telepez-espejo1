@@ -9,8 +9,8 @@ const translations = {
   en: {
     description: "A free IPTV list focused on Latin American and South American channels.",
     github: "GitHub",
-    mirrors: "Mirror Repositories",
-    discord: "Discord Server",
+    mirrors: "Mirrors",
+    discord: "Discord server",
     disclaimer: "Disclaimer"
   }
 };

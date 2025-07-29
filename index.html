@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link id="favicon" rel="icon" href="https://telepez.github.io/imagenes/Telepez_alternativo.webp" type="image/x-icon">
   <title>Telepez</title>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="https://telepez.github.io/estilos.css">
 </head>
   <meta property="og:title" content="Telepez" />
@@ -15,16 +14,22 @@
   <meta property="og:type" content="website" />
 <body>
 
+    <select id="languageSwitcher" style="position: absolute; top: 10px; right: 10px;">
+    <option value="es">Español</option>
+    <option value="en">English</option>
+  </select>
+
   <img src="https://telepez.github.io/imagenes/Telepez.webp" alt="lee hijo de puta" class="logo" />
 
-  <div class="caption">Una lista gratuita de IPTV enfocado en canales de Latinoamérica y Sudamérica.</div>
+  <div class="caption" data-i18n="description">Una lista gratuita de IPTV enfocado en canales de Latinoamérica y Sudamérica.</div>
 
   <div class="button-container">
-    <a href="https://github.com/telepez/telepez.github.io" class="btn">GitHub</a>
-    <a href="https://telepez.github.io/espejos.html" class="btn">Repositorios espejos</a>
-    <a href="https://discord.gg/6ZqCfeDuny" class="btn">Servidor de Discord</a>
-    <a href="https://telepez.github.io/ddr.html" class="btn">Descargo de Responsabilidad</a>
+     <a href="https://github.com/telepez/telepez.github.io" class="btn" data-i18n="github">GitHub</a>
+     <a href="https://telepez.github.io/espejos.html" class="btn" data-i18n="mirrors">Repositorios espejos</a>
+     <a href="https://discord.gg/6ZqCfeDuny" class="btn" data-i18n="discord">Servidor de Discord</a>
+     <a href="https://telepez.github.io/ddr.html" class="btn" data-i18n="disclaimer">Descargo de Responsabilidad</a>
   </div>
 
+<script src="ls.js"></script>
 </body>
 </html>

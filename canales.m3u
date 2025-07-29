@@ -3,9 +3,9 @@
 http://177.53.154.70:9981/stream/channelid/1580738470?profile=pass
 #EXTINF:-1 group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Logo_Canal_13_2025.svg/1200px-Logo_Canal_13_2025.svg.png",Canal 13
 http://45.232.210.1:8029/play/a001/index.m3u8
-#EXTINF:-1 group-title="Chile" tvg-logo="https://telepez.github.io/imagenes/Telecanal.webp",Telecanal
+#EXTINF:-1 group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/2560px-La_Red_Logotipo_2021.svg.png",La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="Chile" tvg-logo="https://telepez.github.io/imagenes/Telecanal.webp",Telecanal (Directo 2)
+#EXTINF:-1 group-title="Chile" tvg-logo="https://telepez.github.io/imagenes/Telecanal.webp",Telecanal
 http://181.78.4.250:8098/play/a069/index.m3u8 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/1200px-Logo_Canal_24_horas.svg.png",24h
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/46838.ts
@@ -109,8 +109,6 @@ http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/101525.ts
 http://jabawalkies.club:8080/K1uWWBmaxJ/Xa1TFucw91/113430
 #EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://telepez.github.io/imagenes/Univision_tlnovelas.webp",Univision tlnovelas 
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110845.ts
-#EXTINF:-1 tvg-id="5ACTION.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/1024px-5Action_logo.svg.png" group-title="Reino Unido / UK",5ACTION
-http://31.121.110.30:4000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos / US" tvg-id="Starz.us" tvg-logo="https://i.imgur.com/N7oSm4d.png",Starz
 http://fl1.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos / US" tvg-id="StarzComedy.us" tvg-logo="https://iili.io/bIfMDg.md.png",Starz Comedy
@@ -135,12 +133,20 @@ http://speccy.pw:8080/live/111111/111111/294808.ts
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/101774.ts
 #EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png",The Weather Channel
 http://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1024px-Euronews_2016_logo.svg.png",EuroNews
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/ac52dcd3-fbfa-4e4a-9566-1a6517d44842/5.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg",Al Jazeera 
+https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://telepez.github.io/imagenes/BBC_World_News.webp",BBC World News
 http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://telepez.github.io/imagenes/NickMusic.webp",NickMusic
 http://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NuestraTeleInternacional2019.png/revision/latest?cb=20191225023419",NuestraTele RCN
 http://181.78.4.250:8098/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://telepez.github.io/imagenes/RT.webp",RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png",TVE
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110843.ts
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://telepez.github.io/imagenes/Univision.webp",Univision
@@ -251,6 +257,8 @@ http://94.61.151.242:9981/stream/channelid/1891676464?profile=pass
 http://94.61.151.242:9981/stream/channelid/16607114?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.Noticais.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-noticias-pt.png",SIC Noticias
 http://94.61.151.242:9981/stream/channelid/1891676464?profile=pass
+#EXTINF:-1 tvg-id="5ACTION.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/1024px-5Action_logo.svg.png" group-title="Reino Unido / UK",5ACTION
+http://31.121.110.30:4000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/5Star_logo_2019.svg/2880px-5Star_logo_2019.svg.png" group-title="Reino Unido / UK",5STAR
 http://31.121.110.30:4000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="Reino Unido / UK",5USA

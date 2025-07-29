@@ -109,8 +109,6 @@ http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/101525.ts
 http://jabawalkies.club:8080/K1uWWBmaxJ/Xa1TFucw91/113430
 #EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://telepez.github.io/imagenes/Univision_tlnovelas.webp",Univision tlnovelas 
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110845.ts
-#EXTINF:-1 tvg-id="5ACTION.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/1024px-5Action_logo.svg.png" group-title="Reino Unido / UK",5ACTION
-http://31.121.110.30:4000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos / US" tvg-id="Starz.us" tvg-logo="https://i.imgur.com/N7oSm4d.png",Starz
 http://fl1.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos / US" tvg-id="StarzComedy.us" tvg-logo="https://iili.io/bIfMDg.md.png",Starz Comedy
@@ -147,6 +145,8 @@ http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110843.ts
 http://177.53.154.70:9981/stream/channelid/1136052604?profile=pass
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png",Telemundo
 http://170.239.188.252:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg",Al Jazeera 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/2093.ts
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://telepez.github.io/imagenes/BitMe.webp",BitMe
 http://181.78.4.250:8098/play/0122/index.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://telepez.github.io/imagenes/BitMe.webp",BitMe (Directo 2)
@@ -251,6 +251,8 @@ http://94.61.151.242:9981/stream/channelid/1891676464?profile=pass
 http://94.61.151.242:9981/stream/channelid/16607114?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.Noticais.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-noticias-pt.png",SIC Noticias
 http://94.61.151.242:9981/stream/channelid/1891676464?profile=pass
+#EXTINF:-1 tvg-id="5ACTION.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/1024px-5Action_logo.svg.png" group-title="Reino Unido / UK",5ACTION
+http://31.121.110.30:4000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/5Star_logo_2019.svg/2880px-5Star_logo_2019.svg.png" group-title="Reino Unido / UK",5STAR
 http://31.121.110.30:4000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="Reino Unido / UK",5USA

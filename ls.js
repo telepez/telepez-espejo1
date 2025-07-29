@@ -7,11 +7,18 @@ const translations = {
     disclaimer: "Descargo de Responsabilidad"
   },
   en: {
-    description: "A free IPTV list focused on Latin American and South American channels.",
+    description: "A free IPTV service focused on Latin American and South American channels.",
     github: "GitHub",
     mirrors: "Mirrors",
     discord: "Discord server",
     disclaimer: "Disclaimer"
+  },
+  br: {
+    description: "Uma lista de IPTV gratuita focada em canais latinos e sul-americanos.",
+    github: "GitHub",
+    mirrors: "Repositórios espelho",
+    discord: "Servidor Discord",
+    disclaimer: "Isenção de responsabilidade"
   }
 };
 
